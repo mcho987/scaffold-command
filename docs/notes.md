@@ -1,3 +1,4 @@
 # notes.md
 
 Notes and usage details for scaffold-command.
+- clarify the setup steps
